@@ -1,4 +1,8 @@
-header{
+body{
     font-size: 25px;
     color: aqua;
+}
+
+header{
+    border: 7px dashed goldenrod;
 }
