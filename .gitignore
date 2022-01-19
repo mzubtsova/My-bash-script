@@ -1,0 +1,6 @@
+# ask git to ignore all this files/folders and not truck them. Include them in the project history
+
+.vscode/
+.DS_Store
+*.pdf
+*.zip
